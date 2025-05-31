@@ -36,16 +36,25 @@ pnpm dev
 
 
 # Meeting note0530 updates:
-What features are complete:
+
+## What features are complete:
+
 • User dietary preference configuration (supports health needs and exclusion of ingredients, with persistent storage)
+
 • Store selection and matching (search, load inventory, filter by preferences)
+
 • Filtered product list display (product cards with image, name, health-related tags, recommendation status, and option to add to shopping list)
+
 • Shopping list management (favoriting, marking as purchased, deleting, reordering)
+
 • MVP architecture is complete, with a well-structured logic and data flow
 
-Any outstanding items:
+## Any outstanding items:
+
 • The recommendation sorting algorithm is not yet implemented; a simple open-source algorithm should be used for sorting
+
 • The camera module integration is incomplete; if time is tight, use photo uploads instead of accessing the camera for testing
 
-Whether the project meets your original goal:
+## Whether the project meets your original goal:
+
 Yes, the project has implemented the core MVP features, covering all major user pathways, and meets the initial project goals. The next step is to enhance the interface interactions and test the sorting functionality.
