@@ -1,6 +1,6 @@
 # Grocery Assistant
 
-This project is a **Next.js-based** web application designed as a grocery assistant tool.
+This project is a **Next.js-based** application designed as a grocery assistant tool.
 
 ## 📁 Project Structure
 
